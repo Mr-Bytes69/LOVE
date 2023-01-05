@@ -1,0 +1,2 @@
+from LOVE import main
+Main()
